@@ -1,6 +1,6 @@
 ## OpenGL2 Virtual Science Museum
 
-scimus is demonstration of OpenGL2 technologies that I write for an introductory course in computer graphics.  It is essentially a first-person navigation demo with various animations that are intended to follow the theme of a virtual science museum.
+scimus is demonstration of OpenGL2 technologies that I wrote for an introductory course in computer graphics.  It is essentially a first-person navigation demo with various animations that are intended to follow the theme of a virtual science museum.
 
 scimus demonstrates the following concepts:
 
